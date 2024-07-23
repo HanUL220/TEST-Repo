@@ -1,7 +1,13 @@
 # TEST-Repo
 
-## C
+## Java jdk 17
 
-## JAVA
+## Spring Boot 3.x 
 
-## PYTHON
+## jwt token
+
+## JPA 
+
+## OpenAI API 
+
+## Mysql
